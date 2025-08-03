@@ -1,56 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+## Hi there 👋<br><br>**Sundar**  <br>Tamil Nadu, India  <br>📧 Email: leosundar155@gmail.com  <br>💼 LinkedIn: [linkedin.com/in/sundar-p-0b4736170/](https://linkedin.com/in/sundar-p-0b4736170/)<br><br>---<br><br>## About Me:<br><br>Hello World! I'm **Sundar** 👨‍💻<br><br>🚀 Passionate Full Stack Developer<br>🎯 Creative Problem Solver  <br>📚 Lifelong Learner  <br><br>I love turning ideas into scalable applications and beautiful interfaces ✨<br><br>◆ **Specializing in:**<br>- 🎨 Frontend: HTML, CSS, JavaScript, Angular, React<br>- ⚙️ Backend: Java, Spring Boot, Microservices  <br>- ☁️ Cloud: AWS (Certified), Azure<br>- 🗄️ Database: PostgreSQL, SQL<br><br>🚀 **Currently leveling up my skills in:**<br>- Spring Cloud Configuration & Microservices Architecture<br>- Cloud-Native Applications with AWS Lambda & DynamoDB<br><br>💬 **Always ready to talk about:**<br>- Full stack development trends<br>- Microservices architecture<br>- Cloud deployment strategies<br>- Frontend frameworks and design systems<br><br>🎯 **Building:** Scalable, secure, and delightful user experiences  <br>📖 **Forever a student of:** System design, performance optimization, and modern web technologies<br><br>Let's create something awesome together! 🚀<br><br>---
 
-**Sundar**  
-Tamil Nadu, India  
-📧 Email: leosundar155@gmail.com  
-💼 LinkedIn: [linkedin.com/in/sundar-p-0b4736170/](https://linkedin.com/in/sundar-p-0b4736170/)
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sundar-p-0b4736170/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leosundar155@gmail.com) 
 
-## About Me:
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat&logo=SONARLINT&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sundarleo11&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sundarleo11&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundarleo11&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-Hello World! I'm **Sundar** 👨‍💻
-
-🚀 Passionate Full Stack Developer
-🎯 Creative Problem Solver  
-📚 Lifelong Learner  
-
-I love turning ideas into scalable applications and beautiful interfaces ✨
-
-◆ **Specializing in:**
-- 🎨 Frontend: HTML, CSS, JavaScript, Angular, React
-- ⚙️ Backend: Java, Spring Boot, Microservices  
-- ☁️ Cloud: AWS (Certified), Azure
-- 🗄️ Database: PostgreSQL, SQL
-
-🚀 **Currently leveling up my skills in:**
-- Spring Cloud Configuration & Microservices Architecture
-- Cloud-Native Applications with AWS Lambda & DynamoDB
-
-💬 **Always ready to talk about:**
-- Full stack development trends
-- Microservices architecture
-- Cloud deployment strategies
-- Frontend frameworks and design systems
-
-🎯 **Building:** Scalable, secure, and delightful user experiences  
-📖 **Forever a student of:** System design, performance optimization, and modern web technologies
-
-Let's create something awesome together! 🚀
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sundarleo11&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Sundarleo11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--
-**Sundarleo11/Sundarleo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on the SWIFT platform at Cognizant
-- 🌱 I'm currently learning Cloud-Native Architecture and Advanced Spring Boot
-- 👯 I'm looking to collaborate on Full Stack and Cloud projects
-- 🤔 I'm looking for help with Microservices optimization
-- 💬 Ask me about Angular, React, Spring Boot, AWS
-- 📫 How to reach me: leosundar155@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've built everything from console apps to cloud-native solutions!
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
