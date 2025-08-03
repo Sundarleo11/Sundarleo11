@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Sundar Pitchai**  
+**Sundar**  
 Tamil Nadu, India  
 📧 Email: leosundar155@gmail.com  
 💼 LinkedIn: [linkedin.com/in/sundar-p-0b4736170/](https://linkedin.com/in/sundar-p-0b4736170/)
