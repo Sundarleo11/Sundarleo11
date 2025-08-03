@@ -19,14 +19,13 @@ I love turning ideas into scalable applications and beautiful interfaces ✨
 
 ◆ **Specializing in:**
 - 🎨 Frontend: HTML, CSS, JavaScript, Angular, React
-- ⚙️ Backend: Java, Spring Boot, Node.js, Microservices  
+- ⚙️ Backend: Java, Spring Boot, Microservices  
 - ☁️ Cloud: AWS (Certified), Azure
 - 🗄️ Database: PostgreSQL, SQL
 
 🚀 **Currently leveling up my skills in:**
 - Spring Cloud Configuration & Microservices Architecture
 - Cloud-Native Applications with AWS Lambda & DynamoDB
-- Advanced React patterns and UI/UX optimization
 
 💬 **Always ready to talk about:**
 - Full stack development trends
