@@ -11,7 +11,7 @@ Tamil Nadu, India
 
 Hello World! I'm **Sundar** 👨‍💻
 
-🚀 Passionate Full Stack Developer |  
+🚀 Passionate Full Stack Developer
 🎯 Creative Problem Solver  
 📚 Lifelong Learner  
 
