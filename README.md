@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me:<br><br>Hello World! I'm **Sundar** 👨‍💻<br><br>🚀 **Passionate Full Stack Developer** with 5+ years of experience at Cognizant  <br>⚙️ **Specializing in** Java Spring Boot, Angular, React & AWS Cloud Solutions  <br> ☁️ **AWS Certified** Solutions Architect & Cloud Practitioner  <br>💡 **Always learning** new technologies and creating scalable applications  <br><br>Let's create something awesome together! 🚀
+## About Me:<br><br>Hello World! I'm **Sundar** 👨‍💻<br><br>🚀 **Passionate Full Stack Developer** with 5 years of experience at Cognizant  <br>⚙️ **Specializing in** Java Spring Boot, Angular, React & AWS Cloud Solutions  <br> ☁️ **AWS Certified** Solutions Architect & Cloud Practitioner  <br>💡 **Always learning** new technologies and creating scalable applications  <br><br>Let's create something awesome together! 🚀
 
 
 ## 🌐 Socials:
